@@ -19,7 +19,7 @@ The primary goal of this project is to develop a robust ML model that can accura
 ## Dataset
 
 - Source: The dataset is collected from **Sahitya Sudhe**.
-- Contains 1000+ Kannada song lyrics.
+- Contains 2000+ Kannada song lyrics.
 - Preprocessed and balanced using **SMOTE-Tomek Links** to ensure fair representation of all classes.
 
 ## Tools and Libraries Used
